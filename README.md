@@ -8,7 +8,7 @@ A basic calculator built using HTML, CSS, and JavaScript. It performs simple ari
 
 ## 📷 Demo
 
-![Calculator Screenshot](screenshot.png) <!-- Replace or upload your screenshot with this name -->
+https://calculator-md9f.onrender.com
 
 ---
 
@@ -33,8 +33,10 @@ A basic calculator built using HTML, CSS, and JavaScript. It performs simple ari
 
 ---
 
-<b>⚠️ Note<br>
-This calculator currently uses eval() to perform calculations, which can pose a security risk. It is fine for learning purposes or offline usage, but not recommended for production apps.</b>
+⚠️ Note<br>
+<b>This calculator currently uses eval() to perform calculations, which can pose a security risk. It is fine for learning purposes or offline usage, but not recommended for production apps.</b>
+
+---
 
 📂 Project Structure
 calculator/
@@ -42,20 +44,19 @@ calculator/
 ├── style.css
 └── README.md
 
+---
+
 🙋 About the Author
 Developed by [Your Name] – a developer passionate about clean code, intuitive design, and building useful web tools.
-
 GitHub: @your-username
-
 LinkedIn: linkedin.com/in/your-profile (optional)
+
+---
 
 💡 Future Improvements
 Implement a safer math parser instead of eval()
-
 Add keyboard support
-
 Improve responsive design for mobile devices
-
 Include decimal and percentage functionality
 
 
