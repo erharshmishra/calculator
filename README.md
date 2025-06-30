@@ -33,30 +33,26 @@ https://calculator-md9f.onrender.com
 
 ---
 
-⚠️ Note<br>
-<b>This calculator currently uses eval() to perform calculations, which can pose a security risk. It is fine for learning purposes or offline usage, but not recommended for production apps.</b>
+## 📂 Project Structure<br>
+calculator/<br>
+├── index.html<br>
+├── style.css<br>
+└── README.md<br>
 
 ---
 
-📂 Project Structure
-calculator/
-├── index.html
-├── style.css
-└── README.md
+## 🙋 About the Author<br>
+Developed by Harsh Mishra – a developer passionate about clean code, intuitive design, and building useful web tools.<br>
+- GitHub: https://github.com/erharshmishra<br>
+- LinkedIn: https://www.linkedin.com/in/harshmishra8103/<br>
 
 ---
 
-🙋 About the Author
-Developed by [Your Name] – a developer passionate about clean code, intuitive design, and building useful web tools.
-GitHub: @your-username
-LinkedIn: linkedin.com/in/your-profile (optional)
+## 💡 Future Improvements<br>
+- Implement a safer math parser instead of eval()<br>
+- Add keyboard support<br>
+- Improve responsive design for mobile devices<br>
+- Include decimal and percentage functionality<br>
 
----
-
-💡 Future Improvements
-Implement a safer math parser instead of eval()
-Add keyboard support
-Improve responsive design for mobile devices
-Include decimal and percentage functionality
-
-
+<b>⚠️ Note</b><br>
+This calculator currently uses eval() to perform calculations, which can pose a security risk. It is fine for learning purposes or offline usage, but not recommended for production apps.<br>
